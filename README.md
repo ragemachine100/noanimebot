@@ -8,4 +8,5 @@ Uses an [object detection model](https://github.com/zymk9/yolov5_anime) to recog
 - axios v1.7.5
 - discord.js v14.15.3
 - Node.js v18.17.1
+
 Versions other than listed are untested.
